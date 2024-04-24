@@ -17,7 +17,8 @@ h1{
     font-family: Playfair Display, serif;
     font-weight: 700;
     font-style: Bold;
-    background:blueviolet;
+    background:lightcoral;
+    color:black;
 }
 
 
@@ -31,5 +32,6 @@ p{
     font-family: Sedan,serif ;
     font-weight: 400;
     font-style: normal;
-    background:lightcoral;
+    background: lightcoral;
+    color: black;
  }
